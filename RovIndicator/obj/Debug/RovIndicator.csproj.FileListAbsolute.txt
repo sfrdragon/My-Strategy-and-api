@@ -1,0 +1,16 @@
+C:\Users\grzeg\Desktop\Quantower\Settings\Scripts\Indicators\RovIndicator\RovIndicator.deps.json
+C:\Users\grzeg\Desktop\Quantower\Settings\Scripts\Indicators\RovIndicator\RovIndicator.dll
+C:\Users\grzeg\Desktop\Quantower\Settings\Scripts\Indicators\RovIndicator\RovIndicator.pdb
+C:\Quantower\Settings\Scripts\Indicators\RovIndicator\RovIndicator.deps.json
+C:\Quantower\Settings\Scripts\Indicators\RovIndicator\RovIndicator.dll
+C:\Quantower\Settings\Scripts\Indicators\RovIndicator\RovIndicator.pdb
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\RovIndicator.csproj.AssemblyReference.cache
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\RovIndicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\RovIndicator.AssemblyInfoInputs.cache
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\RovIndicator.AssemblyInfo.cs
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\RovIndicator.csproj.CoreCompileInputs.cache
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\RovIndicator.sourcelink.json
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\RovIndicator.dll
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\refint\RovIndicator.dll
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\RovIndicator.pdb
+C:\Projects\RowanQuantTower\Strategy\RovIndicator\obj\Debug\ref\RovIndicator.dll
