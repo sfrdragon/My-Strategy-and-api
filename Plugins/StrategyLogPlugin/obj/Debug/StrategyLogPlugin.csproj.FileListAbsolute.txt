@@ -1,0 +1,5 @@
+C:\Projects\RowanQuantTower\Strategy\Plugins\StrategyLogPlugin\obj\Debug\StrategyLogPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RowanQuantTower\Strategy\Plugins\StrategyLogPlugin\obj\Debug\StrategyLogPlugin.AssemblyInfoInputs.cache
+C:\Projects\RowanQuantTower\Strategy\Plugins\StrategyLogPlugin\obj\Debug\StrategyLogPlugin.AssemblyInfo.cs
+C:\Projects\RowanQuantTower\Strategy\Plugins\StrategyLogPlugin\obj\Debug\StrategyLogPlugin.csproj.CoreCompileInputs.cache
+C:\Projects\RowanQuantTower\Strategy\Plugins\StrategyLogPlugin\obj\Debug\StrategyLogPlugin.sourcelink.json
